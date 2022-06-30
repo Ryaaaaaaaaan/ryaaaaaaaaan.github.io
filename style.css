@@ -1,0 +1,15 @@
+body{
+	background-coloe:green;
+	color:block;
+	padding : 10px;
+}
+#image (
+	float:left;
+)
+#description (
+	float:right;
+)
+
+#reviews{
+	clear:both
+}
