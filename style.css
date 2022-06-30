@@ -1,10 +1,10 @@
 body{
-	background-coloe:green;
+	background-color:green;
 	color:block;
 	padding : 10px;
 }
 #image (
-	float:left;
+	float:middle;
 )
 #description (
 	float:right;
